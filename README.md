@@ -2,7 +2,7 @@
 
 실험 설계, 인과추론, 마케팅 측정, 지표 설계를 다룹니다. "이 숫자로 무엇을 결정할 수 있나"에서 출발해, 결론과 그 결론의 한계를 같이 적는 분석을 지향합니다.
 
-**포트폴리오 → [data-analysis-portfolio](https://github.com/daycornday/data-analysis-portfolio)**
+**분석 저장소 → [data-analysis](https://github.com/daycornday/data-analysis)**
 
 | 갈래 | 다루는 질문 |
 |---|---|
